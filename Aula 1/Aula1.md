@@ -126,5 +126,7 @@
 - Utiliza-se NoCs(Protocolo TCP interno) para interconexão.
 - Ex.: Qualcomm Snapdragon.
  
- 
+---
+
+[Link para aula](https://www.youtube.com/watch?v=W5mHjR43vfs&list=PLqvo6YdcIqXXGY1dLbf_xA-JLMBumTyzG&index=1)
  
